@@ -44,4 +44,22 @@ This project focuses on developing an age estimation system from facial images u
 1. **Clone the Repository:**  
    ```bash  
    git clone https://github.com/your_username/your_repository.git  
-   cd your_repository  
+   cd your_repository
+
+## Set Up Your Environment
+
+2. **Create a virtual environment and install the necessary dependencies:**
+   ```python -m venv env  
+   source env/bin/activate   # On Windows: env\\Scripts\\activate  
+   pip install -r requirements.txt
+
+3. **Run the Notebook:**
+
+Open `Final_DL.ipynb` in Jupyter Notebook or Google Colab and execute the cells to run the project.
+
+
+**Contributing**
+Contributions are welcome! Fork this repository and submit a pull request with any improvements, bug fixes, or new features.
+
+**License**
+This project is licensed under the MIT License.
